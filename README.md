@@ -31,7 +31,4 @@ step3: TFIDF_space.py
 
 step4:NBayes_Predict.py
 
-如果你觉得很棒棒，也许可以打个赏？
-手机扫一扫：
 
-<img src="http://img.blog.csdn.net/20170206162513453?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ2l0aHViXzM2MzI2OTU1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center" width=300 height=400 >
